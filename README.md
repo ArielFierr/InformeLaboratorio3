@@ -27,7 +27,7 @@ Procedimiento
 ![image](https://user-images.githubusercontent.com/116833736/204041740-812c4160-9ec8-40fb-8f82-9dd2dc48bef6.png)
 
 
-Abrimos tickecat y damos click a un nuevo circuito, posterior a esto tomamos 5 resistencias de 1.8 Kohm, 2.2 Kohm, 1.5 Kohm, 470 Ohm y 3,9 Kohm y las ubicamos formando un circuito de 3 nodos, tomando en cuenta las fuentes de poder de 1,5V y 5V en el lado izquierdo del circuito propuesto
+Abrimos tinkecad y damos click a un nuevo circuito, posterior a esto tomamos 5 resistencias de 1.8 Kohm, 2.2 Kohm, 1.5 Kohm, 470 Ohm y 3,9 Kohm y las ubicamos formando un circuito de 3 nodos, tomando en cuenta las fuentes de poder de 1,5V y 5V en el lado izquierdo del circuito propuesto
 
 Una vez tenemos nuestro circuito armado, con la ayuda del multímetro ubicamos en el primer nodo el cabe positivo del multímetro en la línea en dónde se encuentra la resistencia de de 1.8 kohm y el cable negativo de colo negro en la parte inferior del circuito
 
