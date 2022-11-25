@@ -22,6 +22,11 @@ Procedimiento
 
 ![image](https://user-images.githubusercontent.com/116833736/204040715-9eebd22a-72ca-446b-b7f9-1f9c15192fd2.png)
 
+![image](https://user-images.githubusercontent.com/116833736/204042623-b25bb8aa-f2b8-4e12-a2d4-4b08cafcaea1.png)
+
+![image](https://user-images.githubusercontent.com/116833736/204041740-812c4160-9ec8-40fb-8f82-9dd2dc48bef6.png)
+
+
 Abrimos tickecat y damos click a un nuevo circuito, posterior a esto tomamos 5 resistencias de 1.8 Kohm, 2.2 Kohm, 1.5 Kohm, 470 Ohm y 3,9 Kohm y las ubicamos formando un circuito de 3 nodos, tomando en cuenta las fuentes de poder de 1,5V y 5V en el lado izquierdo del circuito propuesto
 
 Una vez tenemos nuestro circuito armado, con la ayuda del multímetro ubicamos en el primer nodo el cabe positivo del multímetro en la línea en dónde se encuentra la resistencia de de 1.8 kohm y el cable negativo de colo negro en la parte inferior del circuito
@@ -41,6 +46,9 @@ Al ser un nodo de referencia el valor que nos da el multímetro utilizado es 0
 ![image](https://user-images.githubusercontent.com/116833736/204014329-12cc81e1-d870-4c51-8cb6-f6042f7020d8.png)
 
 ![image](https://user-images.githubusercontent.com/116833736/204041056-b3aa1e53-5d2f-42d2-a0f3-1bd7e0059a2c.png)
+
+![image](https://user-images.githubusercontent.com/116833736/204041620-5db326f2-f189-4035-9954-2bf20f8dbbdd.png)
+
 
 
 Conclusiones
